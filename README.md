@@ -1,5 +1,13 @@
 # MusicXML to Text Converter 🎶
 
+From **MuseScore**:
+
+![image](https://github.com/user-attachments/assets/1a8aa4ce-b1d0-466a-8f07-0d177d340fec)
+
+The output after executed:
+
+![image](https://github.com/user-attachments/assets/8128d029-f45a-4eef-b2df-c0a447eed7c2)
+
 ## Overview 🌟
 
 This program was created for musicians, students, or anyone working with **MuseScore** sheet music who wants to easily convert **MusicXML** files into plain text. The goal is to allow you to query AI systems, like **ChatGPT**, about the music even when image inputs are not supported, by providing the music data in a readable, text-based format. 📄🤖
